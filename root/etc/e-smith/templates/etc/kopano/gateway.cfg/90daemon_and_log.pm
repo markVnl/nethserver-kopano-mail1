@@ -7,7 +7,7 @@
 run_as_user = kopano
 run_as_group = kopano
 # Please refer to the administrator manual or manpage why HTTP is used rather than the UNIX socket.
-server_socket = https://localhost:237/
+server_socket = https://localhost:236/
 
 
 # LOG SETTINGS

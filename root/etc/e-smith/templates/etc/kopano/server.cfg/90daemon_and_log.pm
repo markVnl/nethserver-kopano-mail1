@@ -4,9 +4,12 @@
 #
 
 # DAEMON SETTINS
-server_listen_tls = *:237
-#  To disable unencrypted connections, set to an empty value.
-server_listen =
+#
+# NO tls in this demo
+# server_listen_tls = *:237
+#
+# To disable unencrypted connections, set to an empty value.
+server_listen = *:236
 run_as_user = kopano
 run_as_group = kopano
 
