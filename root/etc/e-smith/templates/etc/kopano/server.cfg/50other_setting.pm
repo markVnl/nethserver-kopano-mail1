@@ -8,7 +8,7 @@ enable_sso = no
 
 # Disable features for users. This list is space separated.
 # Currently valid values: imap pop3 mobile outlook webapp
-#disabled_features = imap pop3
+disabled_features = 
 
 # Everyone is a special internal group, which contains every user and group
 #hide_everyone = no

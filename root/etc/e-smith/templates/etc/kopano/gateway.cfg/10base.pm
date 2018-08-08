@@ -12,7 +12,7 @@ pop3_enable = no
 
 # enable/disable Secure POP3, and Secure POP3 listen port
 pop3s_enable = yes
-#pop3s_port = 995
+pop3s_port = 995
 
 # enable/disable IMAP, and IMAP listen port
 imap_enable = no
@@ -20,7 +20,7 @@ imap_enable = no
 
 # enable/disable Secure IMAP, and Secure IMAP listen port
 imaps_enable = yes
-#imaps_port = 993
+imaps_port = 993
 
 # Set this value to a name to show in the logon greeting to clients.
 # Leave empty to use DNS to find this name.
