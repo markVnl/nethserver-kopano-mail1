@@ -1,5 +1,6 @@
 nethserver-kopano
 ======================
 
-WORK IN PROGRESS
+this branch is not in development:
+Dropped the idea to use PAM.
 
