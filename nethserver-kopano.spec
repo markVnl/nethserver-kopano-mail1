@@ -19,7 +19,6 @@ Requires: kopano-spooler
 Requires: kopano-search
 Requires: kopano-monitor
 Requires: kopano-gateway
-Requires: kopano-ical
 Requires: cyrus-sasl
 Requires: perl(Text::Unidecode)
 Requires: postfix
